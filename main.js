@@ -71,7 +71,6 @@ sortButton.addEventListener("click", () => {
 
 
 
-
 let sekil1 = document.querySelector('.sekil2')
 
 sekil1.addEventListener("click", () => {
