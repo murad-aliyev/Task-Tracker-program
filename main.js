@@ -103,7 +103,7 @@ sekil1.addEventListener("click", () => {
         item.reverse();
     });
 })
-
+  
 
 if (
     sortButton.addEventListener("click", () => {
