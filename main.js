@@ -97,7 +97,6 @@ sekil1.addEventListener("click", () => {
     sortButton.style.display = "block";
     sekil1.style.display = "none";
     let arr = [];
-    list.push(arr);
     arr.forEach((item) => {
         item.sort();
         item.reverse();
